@@ -1,17 +1,30 @@
 # Pre-reading Standard: Early Years
+> 准阅读标准：早期
 
 The Pre-reading Standard supports the observation and recording of early reading behaviours, listening and oral language skills. It is designed to help teachers evaluate children’s pre-school experiences so that they can best meet the needs of the whole class.
+> “准阅读标准”是针对观察和记录早期阅读行为及听说语言技能所设计的。它可以帮助教师评估孩子的学前经历，以更好符合全班教学的需要。
 
 Children whose experience of reading and language is good prior to starting school will readily demonstrate many of these behaviours and you will be able to teach, observe and assess these children against Standard 1 fairly quickly. Other children will need more exposure to books and language before they are ready for the more formal teaching of reading to begin.
+> 上学前阅读经验和语言能力就比较好的孩子，很快就能展示出如下行为。你可以很快教授、观察和评估这些孩子达到“1阶标准”。而其他孩子就需要更多阅读、接触语言，才能做好接受正式阅读训练的准备。
 
 Children at the Pre-reading Standard will be able to explore, talk about and identify letter sounds in words in books at `Oxford Levels 1` and `1+`.
+> 达到“准阅读标准”的孩子，可以探索、谈论和识别牛津级别“1”和“1+”书籍中单词里的字母发音。
 
-> **Key to Reading Skills**  
-> `READ` = word reading and general reading behaviour  
-> `R` = recall and retrieval  
-> `E` = exploring the author's language and point of view  
-> `A` = analysis of structure and organization  
-> `D` = deduction and inference
+**Key to Reading Skills**
+> 阅读能力要点
+
+- `READ` = word reading and general reading behaviour
+  > 拼读单词和基本的阅读行为
+- `R` = recall and retrieval
+  > 记忆提取
+- `E` = exploring the author's language and point of view
+  > 探索作者的语言和观点
+- `A` = analysis of structure and organization
+  > 分析语言结构和信息组织
+- `D` = deduction and inference
+  > 提炼和推测
+
+---
 
 1. Can hold books the right way up and turn the pages. (`READ`)
    > 可以正确拿书和翻页。
